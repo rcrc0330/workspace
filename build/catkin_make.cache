@@ -1,0 +1,2 @@
+apriltags2_ros/apriltags2:apriltags2_ros/apriltags2_ros:apriltags_ros/apriltags:apriltags_ros/apriltags_ros:aruco_mapping:aruco_mapping_filter:aruco_ros-kinetic-devel/aruco:aruco_ros-kinetic-devel/aruco_msgs:aruco_ros-kinetic-devel/aruco_ros:kalman:learning_tf:offboard:pid:px-ros-pkg-master/drivers/mavlink_serial_client:px-ros-pkg-master/drivers/px4flow:px-ros-pkg-master/px_comm
+-DCATKIN_DEVEL_PREFIX=/home/rajat/rajat_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rajat/rajat_ws/install -G Unix Makefiles
